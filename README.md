@@ -1,6 +1,6 @@
 # WpfVoskTest
 
-개인용 Vosk를 이용해 STT 한국어 테스트 프로젝트입니다.
+Vosk를 사용한 STT 한국어 테스트 프로젝트
 
 
 
