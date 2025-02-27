@@ -50,7 +50,7 @@ namespace LeeVoskExample
                 }
             };
 
-            DemoBytes(model);
+            //DemoBytes(model);
         }
 
         public static void DemoBytes(Model model)
